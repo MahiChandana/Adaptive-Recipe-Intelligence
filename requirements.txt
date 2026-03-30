@@ -1,9 +1,0 @@
-streamlit
-groq
-langchain
-langchain-community
-pandas
-matplotlib
-plotly
-openpyxl
-python-dotenv
